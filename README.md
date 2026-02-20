@@ -16,9 +16,10 @@ Especialista em **Linux**, **Infraestrutura como Código (IaC)** e **Automação
 ### 🛠️ Tech Stack & Expertise
 
 - **Security:** Hardening de Sistemas Linux, Gestão de Vulnerabilidades, Engenharia de Detecção.
+- **Infrastructure & SRE:** Gestão de **Clusters**, Orquestração de Containers e foco em Alta Disponibilidade.
+- **Observability:** Implementação de pilares de monitoramento (Logs, Metrics, Traces) para visibilidade de segurança.
 - **Infrastructure as Code:** Terraform, Ansible (Foco em conformidade e segurança).
-- **Development:** Automação de tarefas e ferramentas de segurança com **Python** e **Bash**.
-- **Cloud & Ops:** Docker, Kubernetes, CI/CD Pipelines (GitLab/GitHub Actions).
+- **Development:** Automação de ferramentas de segurança com **Python** e **Bash**.
 
 ---
 
